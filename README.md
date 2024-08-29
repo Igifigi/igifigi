@@ -38,19 +38,17 @@ def Ignacy_Świderski():
 - Wrocławskie Walentynki (online dating app for high school students)
 - Zorza (informational website for schools with an advanced timetable interface) - contrib
 - SIO2 (platform for carrying out algorithmic contests) - contrib
-- xFlash Maker (simple app for creating flashcards)
 - ProtonApp (desktop app for calculating sport points at 3rd HS)
 - cda reloader and downloader (simple chrome extensions to speed up downloading videos from cda)
 
 ## Workplaces
 - organiser at [Polish IT Olympics](https://oi.edu.pl/)
-- IT-guy at [Wrocławskie Walentynki](https://github.com/Igifigi/wroclawskiewalentynki)
-- tech-guy at [3rd High School](https://lo3.wroc.pl/)
+- IT at [Wrocławskie Walentynki](https://github.com/Igifigi/wroclawskiewalentynki)
 - activist at [Akcja Miasto](https://www.akcjamiasto.org/)
 
 ## About me
 - 🏬 From Wrocław, Poland
-- 🏫 Student of the 3rd High School in Wrocław
+- 🏫 Student of the MMS High School in Wrocław
 - 🚇 Passioned about transportation and trains
 - ✈️ A true traveller
 - 💬 Ask me about ...
