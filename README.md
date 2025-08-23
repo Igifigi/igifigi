@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1250&height=150&lines=%F0%9F%91%8B+%5B+Hello+there%2C+I'm+Ignacy+%C5%9Awiderski+%5D;%F0%9F%99%8B+%3C+welcome+to+my+profile+%2F%3E)](https://git.io/typing-svg)
 ```
 def Ignacy_Świderski():
-  - junior web and desktop developer
+  - junior web developer
   - fluent in Python, C# && C++
   - fav frameworks { django, .NET }
 ```
@@ -38,6 +38,8 @@ def Ignacy_Świderski():
 - Wrocławskie Walentynki (online dating app for high school students)
 - Zorza (informational website for schools with an advanced timetable interface) - contrib
 - SIO2 (platform for carrying out algorithmic contests) - contrib
+- ŚWIDER3000 (application that manages the logistics of balloon delivery at programming contests)
+- EBOARD (simple web app to speed up the operation of the board of the PWD Events LLC) 
 - ProtonApp (desktop app for calculating sport points at 3rd HS)
 - cda reloader and downloader (simple chrome extensions to speed up downloading videos from cda)
 
@@ -48,9 +50,10 @@ def Ignacy_Świderski():
 
 ## About me
 - 🏬 From Wrocław, Poland
-- 🏫 Student of the MMS High School in Wrocław
+- 🏠 Living in Eindhoven, Netherlands
+- 🎓 Student at the Eindhoven University of Technology
 - 🚇 Passioned about transportation and trains
 - ✈️ A true traveller
 - 💬 Ask me about ...
-- 📫 ignacyswiderski@wp.pl
+- 📫 iswiderski@proton.me
 - ⚡ Fun fact: in my free time I take long train journeys and explore
